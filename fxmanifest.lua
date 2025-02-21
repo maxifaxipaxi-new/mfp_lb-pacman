@@ -4,7 +4,7 @@ game "gta5"
 title "LB Phone - Pac-Man-App"
 description "Integrate Games like Pac-Man to LB"
 author "MFPSCRIPTS"
-version '1.0'
+version '1.0.1'
 
 lua54 'yes'
 
